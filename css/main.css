@@ -1,9 +1,9 @@
 /* Custom Stylesheet */
 .default_color {
-  background-color: #792d8c !important; }
+  background-color: #29b6f6  !important; }
 
 .default_color_text {
-  color: #792d8c !important; }
+  color: #29b6f6  !important; }
 
 .icon-block {
   padding: 0 15px; }
@@ -18,7 +18,7 @@
   min-height: 632px;
   max-height: 864px;
   position: relative;
-  background-color: #792d8c; }
+  background-color: #29b6f6 ; }
 
 #nav_f {
   box-shadow: none !important;
@@ -47,25 +47,25 @@
 
 .span_h2 {
   font-weight: 300;
-  color: #792d8c; }
+  color: #29b6f6 ; }
 
 .text_b {
-  color: #792d8c; }
+  color: #29b6f6 ; }
 
 .in {
   font-weight: 400 !important;
   font-style: normal !important; }
 
 .promo i {
-  color: #792d8c;
+  color: #29b6f6 ;
   font-size: 7rem;
   display: block; }
 
 .card-content a {
-  color: #792d8c; }
+  color: #29b6f6 ; }
 
 .card-content a:hover {
-  color: #792d8c; }
+  color: #29b6f6 ; }
 
 #work {
   background: #f7f7f7; }
@@ -157,7 +157,7 @@ xtype
   visibility: hidden; }
 
 .cd-headline.type .cd-words-wrapper.selected b {
-  color: #792d8c; }
+  color: #29b6f6 ; }
 
 .cd-headline.type b {
   visibility: hidden; }
